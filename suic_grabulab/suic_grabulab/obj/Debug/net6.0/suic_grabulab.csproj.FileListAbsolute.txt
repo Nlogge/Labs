@@ -1,0 +1,15 @@
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\bin\Debug\net6.0\suic_grabulab.exe
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\bin\Debug\net6.0\suic_grabulab.deps.json
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\bin\Debug\net6.0\suic_grabulab.runtimeconfig.json
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\bin\Debug\net6.0\suic_grabulab.dll
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\bin\Debug\net6.0\suic_grabulab.pdb
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.csproj.AssemblyReference.cache
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.AssemblyInfoInputs.cache
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.AssemblyInfo.cs
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.csproj.CoreCompileInputs.cache
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.dll
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\refint\suic_grabulab.dll
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.pdb
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\suic_grabulab.genruntimeconfig.cache
+C:\Users\Noge\Desktop\labs\suic_grabulab\suic_grabulab\obj\Debug\net6.0\ref\suic_grabulab.dll
