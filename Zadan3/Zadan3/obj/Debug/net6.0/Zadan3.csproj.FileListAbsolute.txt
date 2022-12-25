@@ -1,0 +1,15 @@
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\bin\Debug\net6.0\Zadan3.exe
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\bin\Debug\net6.0\Zadan3.deps.json
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\bin\Debug\net6.0\Zadan3.runtimeconfig.json
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\bin\Debug\net6.0\Zadan3.dll
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\bin\Debug\net6.0\Zadan3.pdb
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.csproj.AssemblyReference.cache
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.AssemblyInfoInputs.cache
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.AssemblyInfo.cs
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.csproj.CoreCompileInputs.cache
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.dll
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\refint\Zadan3.dll
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.pdb
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\Zadan3.genruntimeconfig.cache
+C:\Users\Noge\Desktop\labs\Zadan3\Zadan3\obj\Debug\net6.0\ref\Zadan3.dll
