@@ -1,0 +1,15 @@
+C:\Users\Noge\Desktop\labs\zad6\zad6\bin\Debug\net6.0\zad6.exe
+C:\Users\Noge\Desktop\labs\zad6\zad6\bin\Debug\net6.0\zad6.deps.json
+C:\Users\Noge\Desktop\labs\zad6\zad6\bin\Debug\net6.0\zad6.runtimeconfig.json
+C:\Users\Noge\Desktop\labs\zad6\zad6\bin\Debug\net6.0\zad6.dll
+C:\Users\Noge\Desktop\labs\zad6\zad6\bin\Debug\net6.0\zad6.pdb
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.csproj.AssemblyReference.cache
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.AssemblyInfoInputs.cache
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.AssemblyInfo.cs
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.csproj.CoreCompileInputs.cache
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.dll
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\refint\zad6.dll
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.pdb
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\zad6.genruntimeconfig.cache
+C:\Users\Noge\Desktop\labs\zad6\zad6\obj\Debug\net6.0\ref\zad6.dll
